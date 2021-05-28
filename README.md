@@ -1,4 +1,4 @@
-### Hi there, I'm [HarshalShende][www.techdev360.com] 👋
+### Hi there, I'm Harshal Shende 👋
 
 ## I'm a 😍😍 Innovation Lover 😍😍!
 
