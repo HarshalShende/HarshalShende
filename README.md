@@ -43,16 +43,16 @@
 
 <br />
 
-<!-- [programming]: https://www.programming-hero.com
-[website]: https:/conference-events.web.app/
-[twitter]: https:/conference-events.web.app/
-[linkedin]: https:/conference-events.web.app/
-[webdevplaylist]: https:/conference-events.web.app/
-[jsplaylist]: https://conference-events.webapp/
-[cssplaylist]: https:/conference-events.web.app/
-[reactplaylist]: https://conference-events.web.app
-[firebaseplaylist]: https://conference-events.web.app -->
+[programming]:https://github.com/HarshalShende/
+[website]: https://github.com/HarshalShende/
+[twitter]: https://github.com/HarshalShende/
+[linkedin]: https://github.com/HarshalShende/
+[webdevplaylist]: https://github.com/HarshalShende/
+[jsplaylist]: https://github.com/HarshalShende/
+[cssplaylist]: https://github.com/HarshalShende/
+[reactplaylist]: https://github.com/HarshalShende/
+[firebaseplaylist]: https://github.com/HarshalShende/
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshalShende&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Harshal Shende" width="550px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshalShende&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Samayun Chowdhury" width="500px" style="margin-left: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshalShende&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Harshal Shende" width="500px" style="margin-left: 20px;" />
