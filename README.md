@@ -1,13 +1,3 @@
-<p align="center">
-<!-- ### Hi there, I'm Harshal Shende 👋
-
-## I'm a 😍😍 Innovation Lover 😍😍! -->
-
-- 🔭 I’m a Freelance Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: React.js , Vue.Js, Java ,Php , Spring ,Laravel , Node.js, Android & ios Development
-- ⚡ Fun fact: I love to Explore the world
-</p>
 
 
 
