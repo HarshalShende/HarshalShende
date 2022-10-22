@@ -3,17 +3,17 @@
 
 <p align="center">
   <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  
+  
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
 
 ### Connect with me:
-<p align="center">
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harshal-shende-10895313a/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/harshalbro357/)
-
-</p>
 
 <br />
 
