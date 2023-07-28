@@ -65,7 +65,7 @@
 [reactplaylist]: https://github.com/HarshalShende/
 [firebaseplaylist]: https://github.com/HarshalShende/
 
-<!--&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshalShende&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Harshal Shende" width="550px" />-->
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshalShende&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Harshal Shende" width="500px" style="margin-left: 20px;" />
 
