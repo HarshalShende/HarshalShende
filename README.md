@@ -3,11 +3,11 @@
 
 <p align="center">
   <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-  
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> 
 
 <br>
 </p>
-
 
 
 ### Hi there, I'm Harshal Shende 👋
@@ -16,10 +16,11 @@
 
 - 🔭 I’m a Freelance Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: React.js , Vue.Js, Java ,Php , Spring ,Laravel , Node.js, Android & ios Development
+- 🥅 2024 Goals: React.js , Vue.Js, Java ,Php , Spring ,Laravel , Node.js, Android & ios Development
+- 🤖 Artificial Intelligence ,Machine Learning, Deep Learning, Generative AI, NLP, LLM
 - ⚡ Fun fact: I love to Explore the world
 
- <a href="https://app.daily.dev/harshalsshende"><img src="https://api.daily.dev/devcards/v2/TvmZ7xduTLAEY1ulBcsCY.png?r=h1b&type=default" width="356" alt="Harshal Shende's Dev Card"/></a>
+ 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harshalsshende/)
